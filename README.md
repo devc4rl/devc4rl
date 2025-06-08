@@ -30,7 +30,7 @@ Nos momentos de lazer, a adrenalina está garantida com jogos desafiadores – a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="js express logo"  />
+  <img src= "https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000)" height="40" alt="js express logo"  />
 </div>
 
 ###
