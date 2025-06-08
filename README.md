@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Gabriel ou pode me chamar ce Carl e sou de Recife - Pernambuco.</p>
+<p align="left">Meu nome é Carlos Gabriel ou pode me chamar de Carl e sou de Recife - Pernambuco.</p>
 
 ###
 
